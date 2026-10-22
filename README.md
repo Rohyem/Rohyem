@@ -31,12 +31,6 @@ A curated multi-company HR dataset published on Kaggle designed for workforce an
 
 ---
 
-## 📈 GitHub Stats
-
-![Rohyem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohyem&show_icons=true&theme=dark)
-
----
-
 ## 📬 Connect with Me
 
 - 🌐 **Portfolio Website:** [rohyem.github.io](https://rohyem.github.io)
