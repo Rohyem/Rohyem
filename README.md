@@ -35,4 +35,3 @@ A curated multi-company HR dataset published on Kaggle designed for workforce an
 
 - 🌐 **Portfolio Website:** [rohyem.github.io](https://rohyem.github.io)
 - 💼 **LinkedIn:** [Mohamed Mahmoud](https://www.linkedin.com/in/mohamed-mahmoud-6852aa385)
-- 🐙 **GitHub:** [@Rohyem](https://github.com/Rohyem)
