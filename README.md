@@ -1,6 +1,5 @@
- Mohamed Mahmoud ( Rohyem )
+Mohamed Mahmoud ( Rohyem )
 
- CS & AI Student @ Sphinx University · Cybersecurity · Data Science Enthusiast
-Building data-driven solutions and exploring secure systems — powered by C++, Python, and SQL.
+ CS and AI Student @ Sphinx University ; Cybersecurity ; Data Science Enthusiast ; C++ · Python · SQL
 
 📍 Sidi Salem, Kafr El-Sheikh, Egypt
